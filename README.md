@@ -16,9 +16,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/b0daelbanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="b0daelbanna" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdulrahman elbanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulrahman elbanna" height="30" width="40" /></a>
-<a href="https://kaggle.com/abdulrahman elbanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abdulrahman elbanna" height="30" width="40" /></a>
-<a href="https://fb.com/abdulrahman elbanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdulrahman elbanna" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdulrahman-elbanna-33bb03252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulrahman elbanna" height="30" width="40" /></a>
+<a href="https://kaggle.com/abdulrahmanelbanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abdulrahman elbanna" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100012888781196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdulrahman elbanna" height="30" width="40" /></a>
 <a href="https://instagram.com/b0daelbannaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="b0daelbannaa" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/b0daelbannaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="b0daelbannaa" height="30" width="40" /></a>
 </p>
