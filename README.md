@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdulrahman Elbanna</h1>
 <h3 align="center">I'm IEEE Member , Problem Solving Master @IEEE KSB , General Secretary @IEEE KSB and AI student with a strong passion for machine learning and computer vision.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrahman-prog&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrahman-prog+700" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrahman-prog&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrahman-prog" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulrahman-prog" alt="abdulrahman-prog" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulrahman-prog" alt="abdulrahman-prog"+700 /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/b0daelbanna" target="blank"><img src="https://img.shields.io/twitter/follow/b0daelbanna?logo=twitter&style=for-the-badge" alt="b0daelbanna" /></a> </p>
 
