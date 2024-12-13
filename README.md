@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdulrahman Elbanna</h1>
-<h3 align="center">I'm IEEE Member , Problem Solving Master @IEEE KSB , General Secretary @IEEE KSB and AI student with a strong passion for machine learning and computer vision.</h3>
+<h3 align="center">I'm IEEE Member , AI student with a strong passion for machine learning and computer vision.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrahman-prog&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrahman-prog" /> </p>
 
