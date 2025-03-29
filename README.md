@@ -1,22 +1,45 @@
-Abdulrahman Yasser Elbanna
+👋 Abdulrahman Yasser Elbanna
 Software Engineer | Data Scientist | AI Specialist
-<p align="center"> <em>Passionate about crafting AI-driven solutions with expertise in machine learning and computer vision</em> <br> <img src="https://komarev.com/ghpvc/?username=abdulrahman-prog&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulrahman-prog&theme=onedark&no-frame=true" alt="trophies" /></a> </p> <p align="center"> <a href="https://linkedin.com/in/abdulrahman-elbanna-33bb03252"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://twitter.com/b0daelbanna"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"></a> <a href="https://kaggle.com/abdulrahmanelbanna"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle"></a> </p>
-👨‍💻 About Me
-I’m a dedicated B.Sc. student in Artificial Intelligence at Kafrelsheikh University (2022–2026, GPA: 3.3), blending academic rigor with practical expertise in AI, machine learning, and computer vision. As an IEEE Triple Ambassador (IEEEXtreme, IEEE Puzzlers, IEEE Day) and a competitive programming enthusiast, I’m committed to advancing technology through innovation and education. Based in Damanhour, Egypt, I’m currently deepening my skills in deep learning, AWS cloud solutions, and problem-solving, with a goal to create impactful, real-world applications. Reach me at abdoelbanna240@gmail.com or +20 101 442 3343.
+<p align="center"> <em>Crafting cutting-edge AI solutions with a passion for machine learning and computer vision</em> <br> <img src="https://komarev.com/ghpvc/?username=abdulrahman-prog&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulrahman-prog&theme=gruvbox&no-frame=true&margin-w=10" alt="trophies" /></a> </p>
+🌟 About Me
+I’m a driven B.Sc. student in Artificial Intelligence at Kafrelsheikh University (2022–2026, GPA: 3.3), blending academic rigor with practical expertise in software engineering and data science. As an IEEE Triple Ambassador (IEEEXtreme, IEEE Puzzlers, IEEE Day) and a certified cloud computing professional (NTI/Huawei, 85%), I’m committed to advancing technology through innovation and mentorship. Based in Damanhour, Egypt, I’m fluent in C++, Python, and AWS, with a knack for solving complex problems in AI and beyond.
 
+Contact: abdoelbanna240@gmail.com | abdulrahmanelbanna@ieee.org | +20 101 442 3343
+Focus: Deep Learning, Computer Vision, Cloud Computing
 🎓 Education & Certifications
-Credential	Institution	Duration	Details
-B.Sc. in Artificial Intelligence	Kafrelsheikh University, Egypt	2022 – 2026	GPA: 3.3
-Cloud Computing Certificate	NTI/Huawei Egyptian Talent Academy	Sep 29 – Oct 21, 2024	70 hrs, Score: 85%
-💼 Professional Experience
-<details> <summary><b>Explore My Journey</b></summary> <p> My career spans AI engineering, cloud-based ML, and educational mentorship, where I’ve applied cutting-edge tools and techniques to solve complex challenges: <ul> <li><b>AI Engineer, Rasid</b> (May – Oct 2024): Engineered computer vision solutions, including a facial attendance system (dlib), Automatic Number Plate Recognition for Egyptian cars (cv2, easyocr), and Egyptian ID data extraction (pytesseract).</li> <li><b>AWS Machine Learning Intern, DEPI</b> (Apr – Oct 2024): Deployed ML models on AWS, integrating cloud technologies for scalable AI solutions.</li> <li><b>AI Intern, Orange Digital Center</b> (Feb – Jun 2024): Built ML algorithms (CNN, RNN, LSTM) from scratch in C++, enhancing computer vision tasks with OpenCV and CUDA.</li> <li><b>CS & AI Instructor, iSchool & Almentor</b> (Feb – Dec 2024): Taught programming and AI to global students under the Digital Egypt Cubs Initiative, inspiring the next generation of tech leaders.</li> <li><b>EdTech Mentor, DECI</b> (Jun – Nov 2024): Guided tutors to refine teaching strategies, ensuring high-quality education delivery.</li> </ul> </p> </details>
-🧑‍💻 Technical Skills
-<table align="center"> <tr> <th>Category</th> <th>Skills</th> </tr> <tr> <td><b>Languages</b></td> <td>C, C++, Python, Java, R</td> </tr> <tr> <td><b>AI/ML</b></td> <td>Machine Learning, Deep Learning, Computer Vision, NLP (TensorFlow, PyTorch, Scikit-learn, OpenCV, NLTK)</td> </tr> <tr> <td><b>Data Science</b></td> <td>NumPy, Pandas, Matplotlib, Power BI, Tableau</td> </tr> <tr> <td><b>Tools</b></td> <td>Git, GitHub, Docker, Linux, AWS Services</td> </tr> <tr> <td><b>Core</b></td> <td>OOP, Data Structures, Problem Solving, Design Patterns</td> </tr> <tr> <td><b>Web & More</b></td> <td>HTML, CSS, Java Stream API, Network Programming, Excel</td> </tr> </table>
-🌍 Volunteering & Leadership
-<details> <summary><b>My Contributions</b></summary> <p> I’m deeply engaged in tech communities, driving innovation and mentorship: <ul> <li><b>IEEE Kafrelsheikh Student Branch</b>: Served as General Secretary, led the ‘Code IT’ programming competition (45 participants), and mentored students in C++ and algorithms.</li> <li><b>IEEEXtreme Ambassador</b>: Represented Kafrelsheikh University in a global coding challenge.</li> <li><b>GDSC KSU</b>: Trained 40 students in machine learning as an instructor.</li> <li><b>IEEE Roles</b>: First Egyptian IEEE Puzzlers Ambassador and IEEE Day Ambassador, promoting tech awareness.</li> </ul> </p> </details>
-📫 Let’s Connect
-<p align="center"> <a href="https://linkedin.com/in/abdulrahman-elbanna-33bb03252" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/></a> <a href="https://twitter.com/b0daelbanna" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="twitter" width="40" height="40"/></a> <a href="https://kaggle.com/abdulrahmanelbanna" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" width="40" height="40"/></a> <a href="https://codeforces.com/profile/b0daelbannaa" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" width="40" height="40"/></a> <a href="https://instagram.com/b0daelbannaa" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="instagram" width="40" height="40"/></a> </p>
-📊 GitHub Insights
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulrahman-prog&show_icons=true&locale=en&layout=compact&theme=dracula" alt="top-langs" /> <img src="https://github-readme-stats.vercel.app/api?username=abdulrahman-prog&show_icons=true&locale=en&theme=dracula" alt="stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrahman-prog&theme=dracula" alt="streak" /> </p>
-✨ Why I Code
-I see programming as a canvas for creativity—whether it’s optimizing algorithms or building AI models, I’m driven by the thrill of turning ideas into reality.
+B.Sc. in Artificial Intelligence | Kafrelsheikh University, Egypt | 2022 – 2026
+GPA: 3.3 | Emphasis on machine learning and data structures
+Cloud Computing Certificate | NTI/Huawei Egyptian Talent Academy | Sep – Oct 2024
+70 hours | Score: 85% | Hands-on AWS and cloud integration
+💼 Experience & Contributions
+AI Engineer | Rasid | Part-Time | May 2024 – Oct 2024
+Engineered computer vision solutions including facial attendance systems (dlib), Egyptian ANPR (cv2, easyocr), and ID data extraction (pytesseract).
+AWS Machine Learning Intern | DEPI | Apr 2024 – Oct 2024
+Deployed ML models on AWS, enhancing cloud-based AI workflows.
+AI Intern | Orange Digital Center | Feb 2024 – Jun 2024
+Built ML algorithms (CNN, RNN, LSTM) from scratch in C++ and optimized computer vision tasks with CUDA.
+CS & AI Instructor | iSchool & Almentor | 2024
+Educated global students in programming and AI, supporting the Digital Egypt Cubs Initiative.
+EdTech Mentor | Digital Egypt Cubs Initiative | Jun 2024 – Nov 2024
+Guided tutors to refine teaching methods and elevate educational quality.
+🧑‍💻 Skills & Expertise
+Languages: C, C++, Python, Java, R
+AI & ML: Machine Learning, Deep Learning, Computer Vision, NLP
+Tools: TensorFlow, PyTorch, Scikit-learn, OpenCV, NLTK
+Data Science: NumPy, Pandas, Matplotlib, Power BI, Tableau
+DevOps & Cloud: Git, GitHub, Docker, Linux, AWS Services
+Core Competencies: OOP, Data Structures, Problem Solving, Design Patterns
+🌍 Community & Leadership
+IEEE Kafrelsheikh Student Branch
+General Secretary: Oversaw operations and event representation.
+‘Code IT’ Lead: Directed a 2.5-hour coding competition for 45 participants.
+Problem-Solving Mentor: Trained students in C++ and competitive programming.
+IEEEXtreme Ambassador
+Represented Kafrelsheikh University in a global coding challenge.
+GDSC KSU | Machine Learning Instructor
+Mentored 40 students in ML through practical, hands-on projects.
+Additional Roles: IEEE Puzzlers (First Egyptian Ambassador), IEEE Day Ambassador
+📬 Let’s Connect
+<p align="center"> <a href="https://linkedin.com/in/abdulrahman-elbanna-33bb03252" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="linkedin"/></a> <a href="https://twitter.com/b0daelbanna" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="twitter"/></a> <a href="https://kaggle.com/abdulrahmanelbanna" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="kaggle"/></a> <a href="https://codeforces.com/profile/b0daelbannaa" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" alt="codeforces"/></a> </p>
+📈 Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulrahman-prog&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top-langs" /> <img src="https://github-readme-stats.vercel.app/api?username=abdulrahman-prog&show_icons=true&locale=en&theme=tokyonight" alt="stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrahman-prog&theme=tokyonight" alt="streak" /> </p>
