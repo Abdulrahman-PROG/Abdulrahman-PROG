@@ -7,7 +7,7 @@
 - **AI/ML & Computer Vision**:  
   `PyTorch` `TensorFlow` `OpenCV` `dlib` `CNN/RNN/LSTM` `CUDA` `OCR (EasyOCR, PyTesseract)`  
 - **Cloud & DevOps**:  
-  `AWS (SageMaker, EC2, Lambda)` `Terraform` `Kubernetes` `Docker` `Ansible` `GitOps` `Huawei Cloud`  
+  `AWS` `Terraform` `Kubernetes` `Docker` `Ansible` `GitOps` `Huawei Cloud`  
 - **Data Engineering**:  
   `Python` `SQL` `Power BI` `Tableau` `Big Data` `Apache Spark`  
 - **Software Development**:  
