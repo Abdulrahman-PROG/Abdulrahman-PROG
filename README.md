@@ -23,7 +23,7 @@
 
 ### 🧠 About Me
 
-ML Engineer working on **EV charging infrastructure optimization** and **specialized language models** for the energy sector at [EnergyAI Berlin](https://energyai.de/) — remotely from Egypt. Final-year **AI Engineering** student at Kafrelsheikh University (GPA 3.3/4.0, 2022–2026).
+ML Engineer working on **EV charging infrastructure optimization** and **specialized language models** for the energy sector at [EnergyAI Berlin](https://energyai.berlin/) — remotely from Egypt. Final-year **AI Engineering** student at Kafrelsheikh University (GPA 3.3/4.0, 2022–2026).
 
 I build things end-to-end: from raw data pipelines on Databricks to production model serving endpoints, from computer vision SaaS platforms to Arabic AI content for 100K+ potential learners. I also explore **quantum computing** applications, competing and mentoring at hackathons with a team of Egyptian quantum enthusiasts.
 
